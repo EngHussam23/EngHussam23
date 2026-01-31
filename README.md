@@ -66,7 +66,7 @@
 ## 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngHussam23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussamalraggad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussam-al-raggad/)
 [![Instagram](https://img.shields.io/badge/Instagram-F100F0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hussam.alraggad.designs)
 
 ---
