@@ -55,11 +55,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngHussam23&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngHussam23&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/EngHussam23)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=EngHussam23&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EngHussam23&theme=radical&hide_border=true)](https://github.com/EngHussam23)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngHussam23&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngHussam23&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)](https://github.com/EngHussam23)
 
 ---
 
