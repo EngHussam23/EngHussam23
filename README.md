@@ -57,10 +57,6 @@
 
 ![GitHub stats](https://github-readme-stats-nu-five-84.vercel.app/api?username=EngHussam23&icons=true&theme=holi)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=EngHussam23&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngHussam23&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
-
 ---
 
 ## 🤝 Connect with Me
