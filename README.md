@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- [Portfolio: Hussam Alraggad](https://enghussam23.github.io/Portfolio/)
+- Portfolio: [Hussam Alraggad](https://enghussam23.github.io/Portfolio/)
 - 🔭 Building innovative solutions with modern technologies
 - 🌱 Continuously learning and exploring new tech
 - 💡 Passionate about clean code and best practices
