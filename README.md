@@ -53,12 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-nu-five-84.vercel.app/api?username=EngHussam23&icons=true&theme=holi)
-
----
-
 ## 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngHussam23)
