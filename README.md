@@ -11,7 +11,7 @@
 - 🌱 I’m continuously learning, experimenting, and improving my engineering craft.
 - 💡 I care about clean architecture, readable code, and real-world impact.
 - 🤝 I’m open to collaborating on meaningful projects.
-- 🌐 Portfolio: [Hussam Alraggad](https://enghussam23.github.io/Portfolio/)
+- 🌐 Portfolio: [enghussam23.github.io/Portfolio](https://enghussam23.github.io/Portfolio/)
 
 ---
 
