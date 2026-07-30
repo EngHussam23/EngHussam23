@@ -1,6 +1,6 @@
-## Hi there, I'm Hussam Alraggad
+# Hi there, I'm Hussam Alraggad
 
-### Software Engineer | Front-end Developer | UX/UI Designer
+## Software Engineer | Front-end Developer | UX/UI Designer
 
 Building practical, scalable solutions with clean architecture and readable code.
 
@@ -29,18 +29,22 @@ Building practical, scalable solutions with clean architecture and readable code
 ## Featured Projects
 
 ### [Portfolio](https://github.com/HussamAlraggad/portfolio_03)
+
 My personal portfolio built with Astro, showcasing my work and projects.
 `Astro` `Tailwind CSS`
 
 ### [Fashion Store](https://github.com/HussamAlraggad/fashion_store_v1)
+
 A modern fashion e-commerce storefront built with TypeScript and React.
 `TypeScript` `React` `Next.js`
 
 ### [Mini Wiki 2.0](https://github.com/HussamAlraggad/mini_wiki_2.0)
+
 An intelligent co-researcher tool powered by Go, designed to assist with research workflows.
 `Go` `AI`
 
 ### [OS Geeks Hub](https://github.com/HussamAlraggad/os_geeks_hub_02)
+
 A platform to help users find the best operating system for their needs.
 `Astro` `TypeScript`
 
@@ -49,6 +53,7 @@ A platform to help users find the best operating system for their needs.
 ## Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -57,8 +62,8 @@ A platform to help users find the best operating system for their needs.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,17 +71,20 @@ A platform to help users find the best operating system for their needs.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ### AI
+
 Building AI-augmented tools with LLMs and vector search.
 
 ---
@@ -88,4 +96,4 @@ Building AI-augmented tools with LLMs and vector search.
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/HussamAlraggad)
 [![Instagram](https://img.shields.io/badge/Instagram-F100F0?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hussam.alraggad.designs)
 
-Email: engraggad60@gmail.com
+Email: [hussamraedalraggad@gmail.com](mailto:hussamraedalraggad@gmail.com)
