@@ -8,12 +8,6 @@ Building practical, scalable solutions with clean architecture and readable code
 
 ---
 
-## Achievements
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=HussamAlraggad&no-frame=true&margin-w=15&column=4)
-
----
-
 ## About Me
 
 - I build modern web applications and software solutions with a focus on quality and maintainability.
